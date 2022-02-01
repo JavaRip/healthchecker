@@ -1,0 +1,31 @@
+{
+  "name": "healthchecker",
+  "version": "1.0.0",
+  "description": "return 200 at /healthcheck and display webpage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaRip/healthchecker.git"
+  },
+  "keywords": [
+    "cloud_computing",
+    "cloud",
+    "aws",
+    "ecs",
+    "fargate",
+    "ec2",
+    "express"
+  ],
+  "author": "Kane Swartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaRip/healthchecker/issues"
+  },
+  "homepage": "https://github.com/JavaRip/healthchecker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
